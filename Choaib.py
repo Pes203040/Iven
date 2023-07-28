@@ -1,5 +1,5 @@
 import os,platform
-os.system('git pull')
+os.system
  
 VENOM=platform.architecture()[0]
 if VENOM=="32bit":
