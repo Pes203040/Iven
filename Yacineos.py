@@ -1,4 +1,8 @@
-Decrimport os,base64,zlib,pip,urllib
+# Decrypted by EncTool
+#By Alienkrishn
+
+from os import path
+import os,base64,zlib,pip,urllib
 try:
 import os,requests,json,time,re,random,sys,uuid,string,subprocess
 from string import *
