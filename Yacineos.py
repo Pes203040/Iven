@@ -1030,7 +1030,7 @@ tokenku=[]
 
 os.system(f'xdg-open https://t.me/dark_team_xv')
 
-def yacin():
+def Yacine():
 	clear()
 	#ckx()
 	print(f"[1] FILE CLONING")
