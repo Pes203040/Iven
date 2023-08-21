@@ -62,4 +62,4 @@ async def help_command(client, message):
                 "To use the bot, simply send a valid 16-digit card number."
     await message.reply(help_text)
 
-bot.run()￼Enter
+bot.run()￼ Enter
