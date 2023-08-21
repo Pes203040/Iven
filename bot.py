@@ -1,7 +1,3 @@
-#if before is not nice try this by cahnging file name into bot.py 
-
-
-
 import os
 import asyncio
 import requests
