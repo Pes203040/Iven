@@ -86,7 +86,7 @@ async def send_to_log_channel(app, message):
     await app.forward_messages(LOG_CHANNEL, message.chat.id, message.message_id)
 
 # Help command handler
-Ahmedtt.on_message(filters.command("help"))
+.on_message(filters.command("help"))
 async def help_command(_, message):
     help_text = """
     Welcome to the Bot!
